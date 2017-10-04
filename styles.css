@@ -2,7 +2,12 @@ h1 {
 	text-align: center;
 }
 
-.mainHeading {
+#mainHeading {
 	background: #aaaaff;
 	color: #777777;
+}
+
+img {
+	height: 40vh;
+	width: 55%;
 }
